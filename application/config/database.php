@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'selvadb.mysql.database.azure.com',
-	'username' => 'selvadbuser',
-	'password' => 'verity@123',
+	'hostname' => 'cmtsdbselva.cjsiu8ke03tj.ap-south-1.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'admin123',
 	'database' => 'college_mgmt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
